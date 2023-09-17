@@ -1,0 +1,237 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Importance of Cyber Security | NONSTOPPEBLE</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-SZmqeXJ0qNzF0HXFNaP6NX4ynFSoO4ThMi9hInP7+IeqAcT4KnJd4FU27gEBs+4l" crossorigin="anonymous">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #E8E8E8, #FFFFFF);
+            color: #333;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        .header, .footer {
+            background-color: #2C3E50;
+            color: #FFFFFF;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            border-radius: 10px;
+            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .section {
+            margin-bottom: 30px;
+            padding: 30px;
+            border-radius: 10px;
+            background-color: #F6F6F6;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #F6F6F6;
+            color: #333;
+            border: none;
+            border-radius: 25px;
+            transition: all 0.3s;
+            text-decoration: none;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn:hover {
+            background-color: #FF5733;
+            color: #FFFFFF;
+            transform: translateY(-2px);
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+            border-bottom: 1px dotted #333;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .tooltiptext {
+            visibility: hidden;
+            width: 200px;
+            background-color: #333;
+            color: #FFFFFF;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 100%;
+            left: 50%;
+            margin-left: -100px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+            font-weight: 600;
+            border-bottom: 2px solid #FF5733;
+            padding-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        .highlight {
+            background-color: orangered;
+            font-weight: bold;
+        }
+
+        .interactiveText {
+            color: blue;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        .interactiveText:hover {
+            color: darkblue;
+        }
+
+        .footer span {
+            display: inline-block;
+            opacity: 0;
+            transform: translateY(1rem);
+            transition: all 0.7s ease-in-out 0.5s;
+        }
+
+        .footer:hover span {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Additional Styles */
+        .feature {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .feature:hover {
+            color: #FF5733;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <div class="header">
+        <h1>NONSTOPPEBLE</h1>
+    </div>
+
+    <div class="container">
+        <!-- Importance of Cyber Security -->
+        <div class="section" id="importance">
+            <h2>The Importance of Cyber Security</h2>
+            <p>Cyber <span class="highlight">security</span> is essential in the <span class="tooltip">modern<span class="tooltiptext">Referring to the current digital age where everything is connected online.</span></span> era of technology. With an increasing number of cyber threats, ensuring that your data is secure and protected from potential breaches is more critical than ever.</p>
+            <p>Here are some key reasons why cyber security matters:</p>
+            <ul>
+                <li class="feature">Protection from Data Breaches</li>
+                <li class="feature">Preventing Malware Attacks</li>
+                <li class="feature">Safeguarding Personal Information</li>
+                <li class="feature">Ensuring Business Continuity</li>
+            </ul>
+        </div>
+
+        <!-- Bug Scanning -->
+        <div class="section" id="bug-scanning">
+            <h2>Bug Scanning</h2>
+            <p>Bugs in software can lead to vulnerabilities. Upload your code file to check for known vulnerabilities.</p>
+            <input type="file" id="fileInput">
+            <a href="#" class="btn" onclick="scanFile()">Scan for Bugs</a>
+            <div id="scanResult">Scanning results will be displayed here.</div>
+        </div>
+
+        <!-- Malware Scanning -->
+        <div class="section" id="malware-scanning">
+            <h2>Malware Scanning</h2>
+            <p>Malware can damage your system. Upload your file to check for potential malware.</p>
+            <input type="file" id="malwareFileInput">
+            <a href="#" class="btn" onclick="scanForMalware()">Scan for Malware</a>
+            <div id="malwareScanResult">Scanning results will be displayed here.</div>
+        </div>
+
+        <!-- Unauthorized Access Scanning -->
+        <div class="section" id="unauthorized-access">
+            <h2>Unauthorized Access Scanning</h2>
+            <p>Unauthorized access can compromise data. Check the logs to detect any unauthorized access patterns or suspicious activities.</p>
+            <a href="#" class="btn" onclick="checkLogs()">Check Logs</a>
+            <div id="logCheckResult">Log check results will be displayed here.</div>
+        </div>
+
+        <!-- Icons and Visuals -->
+        <i class="fas fa-shield-alt"></i> <!-- Shield icon from FontAwesome -->
+
+        <!-- Contact Us / Support Section -->
+        <div class="section" id="support">
+            <h2>Contact Us/Support</h2>
+            <p>For any questions or concerns, email us at: <a href="mailto:vatsalgame28@gmail.com">vatsalgame28@gmail.com</a></p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2023 NONSTOPPEBLE. All Rights Reserved. ||A Code By Vatsal Gavit||</p>
+    </div>
+
+    <script>
+        function scanFile() {
+            const fileInput = document.getElementById('fileInput');
+            const scanResult = document.getElementById('scanResult');
+
+            if (fileInput.files.length > 0) {
+                // Mock scan result
+                scanResult.style.display = 'block';
+                scanResult.textContent = 'File scanned. No vulnerabilities detected. (Mock result)';
+            } else {
+                scanResult.style.display = 'block';
+                scanResult.textContent = 'Please upload a file first.';
+            }
+        }
+
+        function scanForMalware() {
+            const fileInput = document.getElementById('malwareFileInput');
+            const scanResult = document.getElementById('malwareScanResult');
+
+            if (fileInput.files.length > 0) {
+                // Mock scan result
+                scanResult.style.display = 'block';
+                scanResult.textContent = 'File scanned. No malware detected. (Mock result)';
+            } else {
+                scanResult.style.display = 'block';
+                scanResult.textContent = 'Please upload a file first.';
+            }
+        }
+
+        function checkLogs() {
+            const logResult = document.getElementById('logCheckResult');
+            logResult.style.display = 'block';
+            logResult.textContent = 'No unauthorized access detected in logs. (Mock result)';
+        }
+    </script>
+</body>
+
+</html>
