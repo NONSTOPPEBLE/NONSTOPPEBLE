@@ -1,10 +1,17 @@
-<h1 align="center">Hey 👋, I'm Vatsal Gavit</h1>
+<!-- Replace the URL below with your own banner image -->
+<table width="100%" align="center">
+  <tr>
+    <td align="center" background="https://wallpaperaccess.com/full/561283.png" style="padding: 80px 20px; color: white;">
+      <h1>Hey 👋, I'm Vatsal Gavit</h1>
+      <p>
+        🔬 Science Student | 💻 Frontend Developer | 🤖 AI & UI Explorer <br>
+        📍 Dang, Gujarat, India <br>
+        ✨ Building real-world apps powered by curiosity, code, and creativity.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-🔬 Science Student | 💻 Frontend Developer | 🤖 AI & UI Explorer  
-📍 Dang, Gujarat, India  
-✨ Building real-world apps powered by curiosity, code, and creativity.
-</p>
 
 ---
 
