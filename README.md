@@ -1,23 +1,16 @@
-<!-- Replace the URL below with your own banner image -->
-<table width="100%" align="center">
-  <tr>
-    <td align="center" background="https://wallpaperaccess.com/full/561283.png" style="padding: 80px 20px; color: white;">
-      <h1>Hey 👋, I'm Vatsal Gavit</h1>
-      <p>
-        🔬 Science Student | 💻 Frontend Developer | 🤖 AI & UI Explorer <br>
-        📍 Dang, Gujarat, India <br>
-        ✨ Building real-world apps powered by curiosity, code, and creativity.
-      </p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hey 👋, I'm Vatsal Gavit</h1>
 
+<p align="center">
+  🔬 Science Student | 💻 Frontend Developer | 🤖 AI & UI Explorer <br>
+  📍 Dang, Gujarat, India <br>
+  ✨ Building real-world apps powered by curiosity, code, and creativity.
+</p>
 
 ---
 
 ## 🧬 About Me
 
-- 🎓 I’m currently an **11th Grade Science Student**, soon moving into **12th Science** (Physics, Chemistry, Math + CS).
+- 🎓 I’m currently an **Science Student**,  (Physics, Chemistry, Math + CS).
 - 💡 Passionate about combining **science** and **software** to build innovative tools.
 - 🛠️ Love designing interactive UIs, experimenting with AI, and learning by doing.
 - 🌱 Self-taught learner with strong interest in real-world applications of tech & research.
@@ -31,7 +24,7 @@
 > 🔑 API key integration | ✍️ Edit messages | 📱 Fully responsive
 
 ### 🛡️ [AndroGuardian](https://github.com/NONSTOPPEBLE/AndroGuardian)
-> A virus scanning UI made entirely with frontend tech  
+> A virus scanning UI made entirely with frontend tech.  
 > 📊 Visual scan results | 📱 Responsive dashboard | 🧩 Clean logic & animations
 
 ### 🔬 Science + Coding Projects
@@ -59,13 +52,35 @@
 
 ## 🧰 Tech Stack
 
-| Area             | Tools & Technologies |
-|------------------|----------------------|
-| **Languages**     | HTML5, CSS3, JavaScript, Python (beginner) |
-| **Frontend**      | Responsive Design, Lucide Icons, Google Fonts |
-| **AI & APIs**     | OpenAI API (GPT-3.5 / GPT-4) |
-| **Data Storage**  | LocalStorage |
-| **Dev Tools**     | Git, GitHub, VS Code, Chrome DevTools |
+| **Category**            | **Technologies**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| **Languages & Frameworks** | HTML5, CSS3, JavaScript (ES6+), React.js (Learning), Vue.js (Beginner)            |
+| **Backend**             | Python (Intermediate), Node.js (Upcoming), Express.js (Coming soon)               |
+| **Version Control & Collaboration** | Git, GitHub, GitLab, GitHub Actions (CI/CD pipelines)                     |
+| **UI/UX Design**       | Figma, Adobe XD, Sketch, Tailwind CSS, Bootstrap                                |
+| **AI & Machine Learning** | OpenAI API (GPT-3.5 / GPT-4), TensorFlow (Beginner), Scikit-learn (Learning)      |
+| **Database & Storage** | MongoDB (Learning), Firebase (Realtime Database)                                 |
+| **Deployment & DevOps** | Docker (Upcoming), Netlify, Vercel                                             |
+| **Cloud Platforms**    | AWS (Beginner), Google Cloud (Upcoming)                                          |
+| **Testing & Debugging** | Jest (for React testing), Mocha, Chai (for backend), Chrome DevTools, Postman     |
+| **Project Management** | Trello, Jira                                                                   |
+| **Code Editors**       | VS Code (Primary), Sublime Text                                                 |
+
+---
+
+### 📚 **Tools & Technologies Summary**
+
+- **Frontend Development**: HTML5, CSS3, JavaScript, React.js
+- **Backend Development**: Python, Node.js, Express.js
+- **Version Control**: Git, GitHub, GitLab, GitHub Actions
+- **UI/UX Design**: Figma, Adobe XD, Sketch, Tailwind CSS
+- **AI & ML**: OpenAI API (GPT-3.5 / GPT-4), TensorFlow, Scikit-learn
+- **Databases**: MongoDB, Firebase
+- **Deployment**: Docker, Netlify, Vercel
+- **Cloud**: AWS, Google Cloud
+- **Testing**: Jest, Mocha, Chai, Postman
+- **Project Management**: Trello, Jira
+- **Code Editors**: VS Code, Sublime Text
 
 ---
 
