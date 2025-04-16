@@ -10,10 +10,10 @@
 
 ## 🧬 About Me
 
-- 🎓 I’m currently an **Science Student**,  (Physics, Chemistry, Math + CS).
+- 🎓 I’m currently an **Science Student**, (Physics, Chemistry, Math + CS).
 - 💡 Passionate about combining **science** and **software** to build innovative tools.
 - 🛠️ Love designing interactive UIs, experimenting with AI, and learning by doing.
-- 🌱 Self-taught learner with strong interest in real-world applications of tech & research.
+- 🌱 Self-taught learner with a strong interest in real-world applications of tech & research.
 
 ---
 
@@ -68,22 +68,6 @@
 
 ---
 
-### 📚 **Tools & Technologies Summary**
-
-- **Frontend Development**: HTML5, CSS3, JavaScript, React.js
-- **Backend Development**: Python, Node.js, Express.js
-- **Version Control**: Git, GitHub, GitLab, GitHub Actions
-- **UI/UX Design**: Figma, Adobe XD, Sketch, Tailwind CSS
-- **AI & ML**: OpenAI API (GPT-3.5 / GPT-4), TensorFlow, Scikit-learn
-- **Databases**: MongoDB, Firebase
-- **Deployment**: Docker, Netlify, Vercel
-- **Cloud**: AWS, Google Cloud
-- **Testing**: Jest, Mocha, Chai, Postman
-- **Project Management**: Trello, Jira
-- **Code Editors**: VS Code, Sublime Text
-
----
-
 ## 📚 Currently Learning
 
 - 🐍 **Python Fundamentals** – Logic, syntax, file handling, basic OOP
@@ -97,18 +81,24 @@
 
 ## 🌍 Connect With Me
 
-- 📧 [vatsalgame28@gmail.com](mailto:vatsalgame28@gmail.com)
-- 🐙 [GitHub @NONSTOPPEBLE](https://github.com/NONSTOPPEBLE)
-- 🔗 [LinkedIn](https://linkedin.com/in/vatsal-gavit-787608274)
-- 📸 [Instagram @vatsal_.x.09_](https://instagram.com/vatsal_.x.09_)
+Let's connect! I'm always open to discussing tech, sharing ideas, or collaborating on projects. You can reach out to me on the following platforms:
+
+- 📧 **Email**: [vatsalgame28@gmail.com](mailto:vatsalgame28@gmail.com)
+- 🐙 **GitHub**: [@NONSTOPPEBLE](https://github.com/NONSTOPPEBLE)
+- 🔗 **LinkedIn**: [Vatsal Gavit](https://linkedin.com/in/vatsal-gavit-787608274)
+- 📸 **Instagram**: [@vatsal_.x.09_](https://instagram.com/vatsal_.x.09_)
+- 🐦 **Twitter**: [@vatsalgavit09](https://twitter.com/vatsalgavit09)
+- 🌐 **Portfolio**: [Vatsal's Portfolio](https://www.vatsalgavit.com)
 
 ---
 
 ## 💡 Fun Facts
 
-- 🧠 I learn best by building real things — even if they break the first time 😄
-- 🧪 My science background fuels my logic and curiosity
-- 🛠️ I love turning simple ideas into polished, interactive tools
+- 🧠 **Learning by Doing**: I believe in hands-on experience, whether it's coding, designing, or experimenting with AI.  
+- 🧪 **Science at Heart**: My love for science drives my passion for tech and innovation. 🧬  
+- 🛠️ **Maker Mindset**: I love building and breaking things — learning from every failure. 💥  
+- 🎮 **Strategic Gamer**: When I’m not coding, I’m playing games that fuel my problem-solving skills. 🎯  
+- 🌱 **Always Growing**: I’m constantly looking for new ways to learn and evolve as a developer and a person. 🌱
 
 ---
 
