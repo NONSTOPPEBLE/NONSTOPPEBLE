@@ -86,7 +86,7 @@ Let's connect! I'm always open to discussing tech, sharing ideas, or collaborati
 - 📧 **Email**: [vatsalgame28@gmail.com](mailto:vatsalgame28@gmail.com)
 - 🐙 **GitHub**: [@NONSTOPPEBLE](https://github.com/NONSTOPPEBLE)
 - 🔗 **LinkedIn**: [Vatsal Gavit](https://linkedin.com/in/vatsal-gavit-787608274)
-- 📸 **Instagram**: [@vatsal_.x.09_](https://instagram.com/vatsal_.x.09_)
+- 📸 **Instagram**: [@vatsal.gavitt_](https://instagram.com/vatsal.gavitt)
 - 🐦 **Twitter**: [@vatsalgavit09](https://twitter.com/vatsalgavit09)
 - 🌐 **Portfolio**: [Vatsal's Portfolio](https://www.vatsalgavit.com)
 
